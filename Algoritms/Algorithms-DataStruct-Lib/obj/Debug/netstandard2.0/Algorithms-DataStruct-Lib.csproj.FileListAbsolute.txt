@@ -15,3 +15,4 @@ C:\Users\marina.plugaru\Desktop\QA\Algoritms\Algorithms-DataStruct-Lib\obj\Debug
 C:\Users\marina.plugaru\Desktop\QA\Algoritms\Algorithms-DataStruct-Lib\obj\Debug\netstandard2.0\Algorithms-DataStruct-Lib.AssemblyInfo.cs
 C:\Users\marina.plugaru\Desktop\QA\Algoritms\Algorithms-DataStruct-Lib\obj\Debug\netstandard2.0\Algorithms-DataStruct-Lib.dll
 C:\Users\marina.plugaru\Desktop\QA\Algoritms\Algorithms-DataStruct-Lib\obj\Debug\netstandard2.0\Algorithms-DataStruct-Lib.pdb
+C:\Users\marina.plugaru\Desktop\QA\Algoritms\Algorithms-DataStruct-Lib\obj\Debug\netstandard2.0\Algorithms-DataStruct-Lib.csprojAssemblyReference.cache

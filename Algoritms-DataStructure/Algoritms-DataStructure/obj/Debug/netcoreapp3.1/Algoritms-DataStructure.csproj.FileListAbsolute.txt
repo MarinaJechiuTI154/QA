@@ -10,3 +10,4 @@ C:\Users\marina.plugaru\Desktop\QA\Algoritms-DataStructure\Algoritms-DataStructu
 C:\Users\marina.plugaru\Desktop\QA\Algoritms-DataStructure\Algoritms-DataStructure\obj\Debug\netcoreapp3.1\Algoritms-DataStructure.dll
 C:\Users\marina.plugaru\Desktop\QA\Algoritms-DataStructure\Algoritms-DataStructure\obj\Debug\netcoreapp3.1\Algoritms-DataStructure.pdb
 C:\Users\marina.plugaru\Desktop\QA\Algoritms-DataStructure\Algoritms-DataStructure\obj\Debug\netcoreapp3.1\Algoritms-DataStructure.genruntimeconfig.cache
+C:\Users\marina.plugaru\Desktop\QA\Algoritms-DataStructure\Algoritms-DataStructure\obj\Debug\netcoreapp3.1\Algoritms-DataStructure.csprojAssemblyReference.cache
