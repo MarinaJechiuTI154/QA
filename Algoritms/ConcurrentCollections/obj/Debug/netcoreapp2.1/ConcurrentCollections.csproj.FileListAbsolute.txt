@@ -1,0 +1,11 @@
+C:\Users\marina.jechiu\Desktop\everything\QA\mentor program\Algoritms\ConcurrentCollections\bin\Debug\netcoreapp2.1\ConcurrentCollections.deps.json
+C:\Users\marina.jechiu\Desktop\everything\QA\mentor program\Algoritms\ConcurrentCollections\bin\Debug\netcoreapp2.1\ConcurrentCollections.runtimeconfig.json
+C:\Users\marina.jechiu\Desktop\everything\QA\mentor program\Algoritms\ConcurrentCollections\bin\Debug\netcoreapp2.1\ConcurrentCollections.runtimeconfig.dev.json
+C:\Users\marina.jechiu\Desktop\everything\QA\mentor program\Algoritms\ConcurrentCollections\bin\Debug\netcoreapp2.1\ConcurrentCollections.dll
+C:\Users\marina.jechiu\Desktop\everything\QA\mentor program\Algoritms\ConcurrentCollections\obj\Debug\netcoreapp2.1\ConcurrentCollections.csprojAssemblyReference.cache
+C:\Users\marina.jechiu\Desktop\everything\QA\mentor program\Algoritms\ConcurrentCollections\obj\Debug\netcoreapp2.1\ConcurrentCollections.csproj.CoreCompileInputs.cache
+C:\Users\marina.jechiu\Desktop\everything\QA\mentor program\Algoritms\ConcurrentCollections\obj\Debug\netcoreapp2.1\ConcurrentCollections.AssemblyInfoInputs.cache
+C:\Users\marina.jechiu\Desktop\everything\QA\mentor program\Algoritms\ConcurrentCollections\obj\Debug\netcoreapp2.1\ConcurrentCollections.AssemblyInfo.cs
+C:\Users\marina.jechiu\Desktop\everything\QA\mentor program\Algoritms\ConcurrentCollections\bin\Debug\netcoreapp2.1\ConcurrentCollections.pdb
+C:\Users\marina.jechiu\Desktop\everything\QA\mentor program\Algoritms\ConcurrentCollections\obj\Debug\netcoreapp2.1\ConcurrentCollections.dll
+C:\Users\marina.jechiu\Desktop\everything\QA\mentor program\Algoritms\ConcurrentCollections\obj\Debug\netcoreapp2.1\ConcurrentCollections.pdb
