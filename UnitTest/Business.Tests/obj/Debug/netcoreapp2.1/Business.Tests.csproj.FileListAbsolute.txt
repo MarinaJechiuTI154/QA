@@ -1,0 +1,15 @@
+C:\Users\marina.jechiu\Desktop\everything\QA\mentor program\UnitTest\Business.Tests\bin\Debug\netcoreapp2.1\Business.Tests.deps.json
+C:\Users\marina.jechiu\Desktop\everything\QA\mentor program\UnitTest\Business.Tests\bin\Debug\netcoreapp2.1\Business.Tests.dll
+C:\Users\marina.jechiu\Desktop\everything\QA\mentor program\UnitTest\Business.Tests\obj\Debug\netcoreapp2.1\Business.Tests.csprojAssemblyReference.cache
+C:\Users\marina.jechiu\Desktop\everything\QA\mentor program\UnitTest\Business.Tests\obj\Debug\netcoreapp2.1\Business.Tests.csproj.CoreCompileInputs.cache
+C:\Users\marina.jechiu\Desktop\everything\QA\mentor program\UnitTest\Business.Tests\obj\Debug\netcoreapp2.1\Business.Tests.AssemblyInfoInputs.cache
+C:\Users\marina.jechiu\Desktop\everything\QA\mentor program\UnitTest\Business.Tests\obj\Debug\netcoreapp2.1\Business.Tests.AssemblyInfo.cs
+C:\Users\marina.jechiu\Desktop\everything\QA\mentor program\UnitTest\Business.Tests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Users\marina.jechiu\Desktop\everything\QA\mentor program\UnitTest\Business.Tests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\Users\marina.jechiu\Desktop\everything\QA\mentor program\UnitTest\Business.Tests\bin\Debug\netcoreapp2.1\nunit.engine.dll
+C:\Users\marina.jechiu\Desktop\everything\QA\mentor program\UnitTest\Business.Tests\bin\Debug\netcoreapp2.1\nunit.engine.api.dll
+C:\Users\marina.jechiu\Desktop\everything\QA\mentor program\UnitTest\Business.Tests\bin\Debug\netcoreapp2.1\Business.Tests.pdb
+C:\Users\marina.jechiu\Desktop\everything\QA\mentor program\UnitTest\Business.Tests\obj\Debug\netcoreapp2.1\Business.Tests.dll
+C:\Users\marina.jechiu\Desktop\everything\QA\mentor program\UnitTest\Business.Tests\obj\Debug\netcoreapp2.1\Business.Tests.pdb
+C:\Users\marina.jechiu\Desktop\everything\QA\mentor program\UnitTest\Business.Tests\bin\Debug\netcoreapp2.1\Business.Tests.runtimeconfig.json
+C:\Users\marina.jechiu\Desktop\everything\QA\mentor program\UnitTest\Business.Tests\bin\Debug\netcoreapp2.1\Business.Tests.runtimeconfig.dev.json
