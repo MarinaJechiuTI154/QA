@@ -77,39 +77,39 @@ namespace Algorithms_DataStruct_Lib.Tests
             Assert.AreEqual(3, _list.Tail.value);
         }
 
-        [Test]
-        public void RemoveFirst_and_RemoveLast_RemoveItemsInCorrectOrder()
-        { 
-            //test remove from empty list
-            _list.RemoveFirst();
-            Assert.IsTrue(_list.IsEmpty);
-            Assert.AreSame(_list.Head, _list.Tail);
+        //[Test]
+        //public void RemoveFirst_and_RemoveLast_RemoveItemsInCorrectOrder()
+        //{ 
+        //    //test remove from empty list
+        //    _list.RemoveFirst();
+        //    Assert.IsTrue(_list.IsEmpty);
+        //    Assert.AreSame(_list.Head, _list.Tail);
 
-            //test remove from list.count == 1
-            _list.AddLast(1);
-            _list.RemoveFirst();
-            Assert.IsTrue(_list.IsEmpty);
-            Assert.IsTrue(_list.Head == null);
-            Assert.IsTrue(_list.Tail == null);
+        //    //test remove from list.count == 1
+        //    _list.AddLast(1);
+        //    _list.RemoveFirst();
+        //    Assert.IsTrue(_list.IsEmpty);
+        //    Assert.IsTrue(_list.Head == null);
+        //    Assert.IsTrue(_list.Tail == null);
 
-            //test remove in right order
-            _list.AddLast(1);
-            _list.AddLast(2);
-            _list.AddLast(3);
-            _list.AddLast(4);
-            _list.AddLast(5);
+        //    //test remove in right order
+        //    _list.AddLast(1);
+        //    _list.AddLast(2);
+        //    _list.AddLast(3);
+        //    _list.AddLast(4);
+        //    _list.AddLast(5);
 
-            //check remove first
-            _list.RemoveFirst();
-            Assert.AreEqual(2, _list.Head.value);
-            Assert.AreEqual(4, _list.Count);
+        //    //check remove first
+        //    //_list.RemoveFirst();
+        //    //Assert.AreEqual(2, _list.Head.value);
+        //    //Assert.AreEqual(4, _list.Count);
 
 
-            //check remove last
-            _list.RemoveLast();
-            Assert.AreEqual(4, _list.Tail.value);
-            Assert.AreEqual(3, _list.Count);
-        }
+        //    //check remove last
+        //    //_list.RemoveLast();
+        //    //Assert.AreEqual(4, _list.Tail.value);
+        //    //Assert.AreEqual(3, _list.Count);
+        //}
     }
 }
 

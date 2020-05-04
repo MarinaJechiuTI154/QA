@@ -38,16 +38,16 @@ namespace Algorithms_DataStruct_Lib.Tests
                 stack.Pop
             ));
         }
-        [Test]
-        public void Peek_PushTwoItems_ReturnsHeadElement()
-        {
-            stack.Push(1);
-            stack.Push(2);
-            Assert.AreEqual(2, stack.Peek());
+        //[Test]
+        //public void Peek_PushTwoItems_ReturnsHeadElement()
+        //{
+        //    stack.Push(1);
+        //    stack.Push(2);
+        //    Assert.AreEqual(2, stack.Peek());
 
-            stack.Pop();
-            Console.Write("Length: ", stack.Count);
-            Assert.AreEqual(1, stack.Peek());
-        }
+        //    stack.Pop();
+        //    Console.Write("Length: ", stack.Count);
+        //    Assert.AreEqual(1, stack.Peek());
+        //}
     }
 }

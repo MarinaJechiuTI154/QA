@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-Algorithms-DataStruct-Lib",
+      "appliesTo": "Algorithms-DataStruct-Lib.Tests/",
+      "type": "launch"
+    }
+  ]
+}

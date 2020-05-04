@@ -7,3 +7,11 @@ C:\Users\marina.jechiu\Desktop\everything\QA\mentor program\Algoritms\Algorithms
 C:\Users\marina.jechiu\Desktop\everything\QA\mentor program\Algoritms\Algorithms-DataStruct-Lib\obj\Debug\netstandard2.0\Algorithms-DataStruct-Lib.AssemblyInfo.cs
 C:\Users\marina.jechiu\Desktop\everything\QA\mentor program\Algoritms\Algorithms-DataStruct-Lib\obj\Debug\netstandard2.0\Algorithms-DataStruct-Lib.dll
 C:\Users\marina.jechiu\Desktop\everything\QA\mentor program\Algoritms\Algorithms-DataStruct-Lib\obj\Debug\netstandard2.0\Algorithms-DataStruct-Lib.pdb
+C:\Users\marina.plugaru\Desktop\QA\Algoritms\Algorithms-DataStruct-Lib\bin\Debug\netstandard2.0\Algorithms-DataStruct-Lib.deps.json
+C:\Users\marina.plugaru\Desktop\QA\Algoritms\Algorithms-DataStruct-Lib\bin\Debug\netstandard2.0\Algorithms-DataStruct-Lib.dll
+C:\Users\marina.plugaru\Desktop\QA\Algoritms\Algorithms-DataStruct-Lib\bin\Debug\netstandard2.0\Algorithms-DataStruct-Lib.pdb
+C:\Users\marina.plugaru\Desktop\QA\Algoritms\Algorithms-DataStruct-Lib\obj\Debug\netstandard2.0\Algorithms-DataStruct-Lib.csproj.CoreCompileInputs.cache
+C:\Users\marina.plugaru\Desktop\QA\Algoritms\Algorithms-DataStruct-Lib\obj\Debug\netstandard2.0\Algorithms-DataStruct-Lib.AssemblyInfoInputs.cache
+C:\Users\marina.plugaru\Desktop\QA\Algoritms\Algorithms-DataStruct-Lib\obj\Debug\netstandard2.0\Algorithms-DataStruct-Lib.AssemblyInfo.cs
+C:\Users\marina.plugaru\Desktop\QA\Algoritms\Algorithms-DataStruct-Lib\obj\Debug\netstandard2.0\Algorithms-DataStruct-Lib.dll
+C:\Users\marina.plugaru\Desktop\QA\Algoritms\Algorithms-DataStruct-Lib\obj\Debug\netstandard2.0\Algorithms-DataStruct-Lib.pdb
