@@ -1,20 +1,18 @@
 package cucumber;
 
 import apiEngine.EndPoints;
+import dataProvider.ConfigReader;
 import enums.Context;
 import io.cucumber.java.an.E;
 
 public class TestContext {
-    private String BASE_URL = "https://bookstore.toolsqa.com";
-    private final String USER_ID = "d10f44f7-a9c3-40ab-af9d-ed2f460c68fa";
-
     private EndPoints endPoints;
     private ScenarioContext scenarioContext;
 
     public TestContext(){
-        endPoints = new EndPoints(BASE_URL);
+        endPoints = new EndPoints(ConfigReader.getInstance().getBaseUrl());
         scenarioContext = new ScenarioContext();
-        scenarioContext.setScenarioContext(Context.USER_ID, USER_ID);
+        scenarioContext.setScenarioContext(Context.USER_ID, ConfigReader.getInstance().getUserId());
     }
 
     public EndPoints getEndPoints(){
